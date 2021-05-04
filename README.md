@@ -1,11 +1,61 @@
-#  FireChat
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg">
+  <img src="https://img.shields.io/github/stars/Sweekwang/Math-Trainer">
+  
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/sg/app/mental-math-math-trainer/id1538276170">
+    <img src="./FireChat/Readme/logo.png" alt="Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">FireChat - Powered by Firebase</h3>
+
+  <p align="center">
+    An iOS Application for messaging with Push Notification
+    <br />
+    <br />
+    <a href="https://apps.apple.com/us/developer/chua-kwang/id1464828215s">Not Available in App Store Available in App Store</a>
+    <br />
+    <br />
+    <a href="https://github.com/Sweekwang/FireChat-iOS/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Sweekwang/FireChat-iOS/issues">Request Feature</a>
+  </p>
+</p>
+
+<hr/>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-this-project">About this Project</a>
+      <ul>
+        <li><a href="#firechat-features">FireChat Features</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#installation-and-setup-instructions">Installation and Setup Instructions</a>
+        <ul>
+        <li><a href="#1-installation">Installation</a></li>
+        <li><a href="#2-project-step-up">Project Step up</a></li>
+        <li><a href="#3-firebase-setup">Firebase Setup</a></li>
+      </ul>
+    </li>
+    <li><a href="#Credits">Credits</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 ## About this Project
 ![App Screenshot](./FireChat/Readme/screenshot.png)
 
 This app was create for me to learn about Model–view–viewmodel(MVVC), build UIKit's user interface programmatically without storyboard and also, push notification from a user's device to another user's device. Also, sending mess notification for marketing purposes. Account is registered using Firebase Authentication and account information are store in Cloud Firestore. User profile image is stored in Cloud Storage and Firebase Cloud message is used to push notification.
 
-**FireChat Features:**
+#### FireChat Features
 
 1. Registering new Account.
 2. Logging in.
