@@ -82,7 +82,7 @@ Ensure that you have change the bundle identifier and team of this project. Clic
 #### 2.2 Setting up a new project Identifier
 This is to allow push notification for the app.
 
-1. Head over to [Apple]((https://developer.apple.com/) and click on **Account**.
+1. Head over to [Apple](https://developer.apple.com/) and click on **Account**.
 2. Click on **Certificates, IDs & Profiles**
 3. Go to **Identifiers**
 4. Click on the add button add new **identifier**
