@@ -21,6 +21,8 @@
     <a href="https://github.com/Sweekwang/FireChat-iOS/issues">Report Bug</a>
     ·
     <a href="https://github.com/Sweekwang/FireChat-iOS/issues">Request Feature</a>
+  ·
+    <a href="https://www.youtube.com/watch?v=ySMKmk29zXA">Video</a>
   </p>
 </p>
 
